@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456339931 source:/home/david/cProg/ConsoleInput/ConsoleInput/main.cpp
+	<iostream>
+
+1456516098 source:/home/david/cProg/ConsoleInput/ConsoleInput/getIntegerFromConsole.cpp
+	<iostream>
+

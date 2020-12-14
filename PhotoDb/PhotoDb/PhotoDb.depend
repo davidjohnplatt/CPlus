@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1462840335 source:/home/david/cProg/PhotoDb/PhotoDb/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<string>
+	<mysql/mysql.h>
+	<driver.h>
+	<connection.h>
+	<statement.h>
+	<prepared_statement.h>
+	<resultset.h>
+	<metadata.h>
+	<resultset_metadata.h>
+	<exception.h>
+	<warning.h>
+	"mysql_connection.h"
+
+1452624158 /usr/include/cppconn/driver.h
+	"connection.h"
+	"build_config.h"
+
+1452624158 /usr/include/cppconn/connection.h
+	<map>
+	"build_config.h"
+	"warning.h"
+	"sqlstring.h"
+	"variant.h"
+
+1452624158 /usr/include/cppconn/build_config.h
+
+1452624158 /usr/include/cppconn/warning.h
+	<stdexcept>
+	<string>
+	<memory>
+	"sqlstring.h"
+
+1452624158 /usr/include/cppconn/sqlstring.h
+	<string>
+	<algorithm>
+	"build_config.h"
+	<iostream>
+
+1452624158 /usr/include/cppconn/statement.h
+	"config.h"
+	"resultset.h"
+	<string>
+
+1460406107 /usr/include/cppconn/config.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1452624158 /usr/include/cppconn/resultset.h
+	"config.h"
+	<list>
+	<map>
+	<iostream>
+	"sqlstring.h"
+	"resultset_metadata.h"
+
+1452624158 /usr/include/cppconn/resultset_metadata.h
+	"sqlstring.h"
+	"datatype.h"
+
+1452624158 /usr/include/cppconn/datatype.h
+
+1452624158 /usr/include/cppconn/prepared_statement.h
+	<iostream>
+	"statement.h"
+
+1452624158 /usr/include/cppconn/metadata.h
+	<string>
+	<list>
+	"datatype.h"
+	"sqlstring.h"
+
+1460406103 /usr/include/cppconn/exception.h
+	"build_config.h"
+	<stdexcept>
+	<string>
+	<memory>
+
+1452624158 /usr/include/cppconn/variant.h
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<typeinfo>
+	"build_config.h"
+	"sqlstring.h"
+	"exception.h"
+

@@ -1,0 +1,167 @@
+FileName = DSC_0008.NEF
+FileType = TIFF:MM
+FileSize = 16414584
+TIFF.Ifd0.NewSubFileType              = 1 = 'thumbnail'
+TIFF.Ifd0.ImageWidth                  = 160
+TIFF.Ifd0.ImageLength                 = 120
+TIFF.Ifd0.BitsPerSample               = 8,8,8
+TIFF.Ifd0.Compression                 = 1 = 'uncompressed'
+TIFF.Ifd0.PhotometricInterpretation   = 2 = 'RGB'
+TIFF.Ifd0.Make                        = 'NIKON CORPORATION'
+TIFF.Ifd0.Model                       = 'NIKON D200'
+TIFF.Ifd0.StripOffsets                = @120100
+TIFF.Ifd0.Orientation                 = 8 = '0,0 is left bottom'
+TIFF.Ifd0.SamplesPerPixel             = 3
+TIFF.Ifd0.RowsPerStrip                = 120
+TIFF.Ifd0.StripByteCounts             = 57600
+TIFF.Ifd0.XResolution                 = 300
+TIFF.Ifd0.YResolution                 = 300
+TIFF.Ifd0.PlanarConfiguration         = 1 = 'chunky/contig'
+TIFF.Ifd0.ResolutionUnit              = 2 = 'pixels per inch'
+TIFF.Ifd0.Software                    = 'Ver.2.00 '
+TIFF.Ifd0.DateTime                    = '2015:01:06 16:11:30'
+TIFF.Ifd0.SubIFDs                     = 177720,177840
+TIFF.Ifd0.ReferenceBlackWhite         = 0,255,0 ... ,255 (6)
+TIFF.Ifd0.ExifIFDPointer              = @480
+TIFF.Ifd0.GPSInfoIFDPointer           = @177700
+TIFF.Ifd0.DateTimeOriginal            = '2015:01:06 16:11:30'
+TIFF.Ifd0.TIFFEPStandardID            = 1,0,0,0
+TIFF.Ifd0.SubIfd0.NewSubFileType              = 1 = 'thumbnail'
+TIFF.Ifd0.SubIfd0.Compression                 = 6 = 'Exif/old JPEG'
+TIFF.Ifd0.SubIfd0.XResolution                 = 300
+TIFF.Ifd0.SubIfd0.YResolution                 = 300
+TIFF.Ifd0.SubIfd0.ResolutionUnit              = 2 = 'pixels per inch'
+TIFF.Ifd0.SubIfd0.JPEGInterchangeFormat       = @180032
+TIFF.Ifd0.SubIfd0.JPEGInterchangeFormatLength = 915256
+TIFF.Ifd0.SubIfd0.YCbCrPositioning            = 2 = 'co-sited'
+TIFF.Ifd0.SubIfd1.NewSubFileType              = 0 = 'primary'
+TIFF.Ifd0.SubIfd1.ImageWidth                  = 3904
+TIFF.Ifd0.SubIfd1.ImageLength                 = 2616
+TIFF.Ifd0.SubIfd1.BitsPerSample               = 12
+TIFF.Ifd0.SubIfd1.Compression                 = 1 = 'uncompressed'
+TIFF.Ifd0.SubIfd1.PhotometricInterpretation   = 32803 = 'CFA'
+TIFF.Ifd0.SubIfd1.StripOffsets                = @1095288,1159704,1224120 ... ,16361880 (238)
+TIFF.Ifd0.SubIfd1.SamplesPerPixel             = 1
+TIFF.Ifd0.SubIfd1.RowsPerStrip                = 11
+TIFF.Ifd0.SubIfd1.StripByteCounts             = 64416,64416,64416 ... ,52704 (238) = 15319296
+TIFF.Ifd0.SubIfd1.XResolution                 = 300
+TIFF.Ifd0.SubIfd1.YResolution                 = 300
+TIFF.Ifd0.SubIfd1.PlanarConfiguration         = 1 = 'chunky/contig'
+TIFF.Ifd0.SubIfd1.ResolutionUnit              = 2 = 'pixels per inch'
+TIFF.Ifd0.SubIfd1.EPCFARepeatPatternDim       = 2,2
+TIFF.Ifd0.SubIfd1.EPCFAPattern                = 1,0,2,1 = 'G,R,B,G'
+TIFF.Ifd0.SubIfd1.EPSensingMethod             = 2 = 'One-chip color area sensor'
+TIFF.Ifd0.SubIfd1.ImageData                   = @1095288:15319296 
+TIFF.Ifd0.Exif.ExposureTime                = 0.003125 sec
+TIFF.Ifd0.Exif.FNumber                     = 8 APEX = 'f16.0'
+TIFF.Ifd0.Exif.ExposureProgram             = 3 = 'Aperture Priority'
+TIFF.Ifd0.Exif.ISOSpeedRatings             = 800
+TIFF.Ifd0.Exif.DateTimeOriginal            = '2015:01:06 16:11:30'
+TIFF.Ifd0.Exif.DateTimeDigitized           = '2015:01:06 16:11:30'
+TIFF.Ifd0.Exif.ExposureBiasValue           = 0 APEX
+TIFF.Ifd0.Exif.MaxApertureValue            = 4 APEX = 'f4.0'
+TIFF.Ifd0.Exif.MeteringMode                = 5 = 'Pattern'
+TIFF.Ifd0.Exif.LightSource                 = 0 = 'unknown'
+TIFF.Ifd0.Exif.Flash                       = 0 = 'no flash'
+TIFF.Ifd0.Exif.FocalLength                 = 24 mm
+TIFF.Ifd0.Exif.MakerNote                   = @1012:119088    # UNDEFINED
+TIFF.Ifd0.Exif.UserComment                 = @952:44 = (36 spaces) # CC='ASCII'    # UNDEFINED
+TIFF.Ifd0.Exif.SubSecTime                  = '16\000'
+TIFF.Ifd0.Exif.SubSecTimeOriginal          = '16\000'
+TIFF.Ifd0.Exif.SubSecTimeDigitized         = '16\000'
+TIFF.Ifd0.Exif.SensingMethod               = 2 = 'One-chip color area sensor'
+TIFF.Ifd0.Exif.FileSource                  = 3 = 'DSC'
+TIFF.Ifd0.Exif.SceneType                   = 1 = 'direct photo'
+TIFF.Ifd0.Exif.CFAPattern                  = @996:8 = 2x2 = 'G,R:B,G'    # UNDEFINED
+TIFF.Ifd0.Exif.CustomRendered              = 0 = 'Normal'
+TIFF.Ifd0.Exif.ExposureMode                = 0 = 'Auto'
+TIFF.Ifd0.Exif.WhiteBalance                = 0 = 'Auto'
+TIFF.Ifd0.Exif.DigitalZoomRatio            = 1
+TIFF.Ifd0.Exif.FocalLengthIn35mmFilm       = 36mm
+TIFF.Ifd0.Exif.SceneCaptureType            = 0 = 'Standard'
+TIFF.Ifd0.Exif.GainControl                 = 1 = 'Low gain up'
+TIFF.Ifd0.Exif.Contrast                    = 0 = 'Normal'
+TIFF.Ifd0.Exif.Saturation                  = 0 = 'Normal'
+TIFF.Ifd0.Exif.Sharpness                   = 0 = 'Normal'
+TIFF.Ifd0.Exif.SubjectDistanceRange        = 0 = '???'
+TIFF.Ifd0.Exif.MakerNote.Offset                    = @1012
+TIFF.Ifd0.Exif.MakerNote.Length                    = 119088
+TIFF.Ifd0.Exif.MakerNote.Scheme                    = 'ID+TIFFheader'
+TIFF.Ifd0.Exif.MakerNote.MakerNoteId               = 'Nikon'
+TIFF.Ifd0.Exif.MakerNote.Version                   = 48,50,49,48 = '0210'
+TIFF.Ifd0.Exif.MakerNote.ISO                       = 0,800 = '800'
+TIFF.Ifd0.Exif.MakerNote.ColorMode                 = 'COLOR'
+TIFF.Ifd0.Exif.MakerNote.Quality                   = 'RAW    '
+TIFF.Ifd0.Exif.MakerNote.WhiteBalance              = 'AUTO        '
+TIFF.Ifd0.Exif.MakerNote.ImageSharpening           = 'AUTO  '
+TIFF.Ifd0.Exif.MakerNote.FocusMode                 = 'AF-S  '
+TIFF.Ifd0.Exif.MakerNote.FlashSetting              = 'NORMAL      '
+TIFF.Ifd0.Exif.MakerNote.FlashType                 = '                   '
+TIFF.Ifd0.Exif.MakerNote.WhiteBalanceBias          = 0
+TIFF.Ifd0.Exif.MakerNote.WhiteBalance              = 1.70703,1.44141,1,1
+TIFF.Ifd0.Exif.MakerNote.TAG_0X000D                = 0,1,6,0
+TIFF.Ifd0.Exif.MakerNote.TAG_0X000E                = 0,1,12,0
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage         = @7552
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.Compression                 = 6 = 'Exif/old JPEG'
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.XResolution                 = 300
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.YResolution                 = 300
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.ResolutionUnit              = 2 = 'pixels per inch'
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.JPEGInterchangeFormat       = @7660
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.JPEGInterchangeFormatLength = 112439
+TIFF.Ifd0.Exif.MakerNote.NikonPreviewImage.YCbCrPositioning            = 2 = 'co-sited'
+TIFF.Ifd0.Exif.MakerNote.FlashExposureCompensation = 0,1,6,0
+TIFF.Ifd0.Exif.MakerNote.ISOSetting                = 0,800
+TIFF.Ifd0.Exif.MakerNote.TAG_0X0017                = 0,1,6,0
+TIFF.Ifd0.Exif.MakerNote.FlashExposureBracketValue = 0,1,6,0
+TIFF.Ifd0.Exif.MakerNote.ExposureBracketValue      = 0
+TIFF.Ifd0.Exif.MakerNote.TAG_0X001B                = 0,3904,2616,3904,2616,0,0
+TIFF.Ifd0.Exif.MakerNote.TAG_0X001C                = 0,1,6
+TIFF.Ifd0.Exif.MakerNote.TAG_0X001D                = '       '
+TIFF.Ifd0.Exif.MakerNote.TAG_0X001E                = 1
+TIFF.Ifd0.Exif.MakerNote.TAG_0X0020                = 0
+TIFF.Ifd0.Exif.MakerNote.ToneCompensation          = 'AUTO    '
+TIFF.Ifd0.Exif.MakerNote.LensType                  = 6
+TIFF.Ifd0.Exif.MakerNote.LensInfo                  = 12,24,4,4
+TIFF.Ifd0.Exif.MakerNote.LensInfo.MinFocalLength               = '12 mm'
+TIFF.Ifd0.Exif.MakerNote.LensInfo.MaxFocalLength               = '24 mm'
+TIFF.Ifd0.Exif.MakerNote.LensInfo.MaxApertureAtMinFocalLength  = 4.00 APEX = 'f4.0'
+TIFF.Ifd0.Exif.MakerNote.LensInfo.MaxApertureAtMaxFocalLength  = 4.00 APEX = 'f4.0'
+TIFF.Ifd0.Exif.MakerNote.FlashMode*                = 0 = 'did not fire'
+TIFF.Ifd0.Exif.MakerNote.AutoFocusArea*            = 3,0,0,1 = 'Center'
+TIFF.Ifd0.Exif.MakerNote.ShootingMode              = 0 = 'single frame, bracketing off, WB bracketing off'
+TIFF.Ifd0.Exif.MakerNote.TAG_0X008A                = 2
+TIFF.Ifd0.Exif.MakerNote.TAG_0X008B                = 60,1,12,0 = '<...'
+TIFF.Ifd0.Exif.MakerNote.NEFDecodeTable1           = @1852:4160      # UNDEFINED
+TIFF.Ifd0.Exif.MakerNote.ColorMode                 = 'MODE1   '
+TIFF.Ifd0.Exif.MakerNote.Lightsource               = 'NATURAL    '
+TIFF.Ifd0.Exif.MakerNote.TAG_0X0091                = @6036:784       # UNDEFINED
+TIFF.Ifd0.Exif.MakerNote.HueAdjustment             = 0
+TIFF.Ifd0.Exif.MakerNote.NoiseReduction            = 'OFF '
+TIFF.Ifd0.Exif.MakerNote.ColorBalance**            = @6828:608       # UNDEFINED
+TIFF.Ifd0.Exif.MakerNote.TAG_0X0098                = @7436:31        # UNDEFINED
+TIFF.Ifd0.Exif.MakerNote.NEFThumbnailSize*         = 1952,1308
+TIFF.Ifd0.Exif.MakerNote.TAG_0X009A                = 6.05,6.05
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00A3                = 0
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00A4                = 48,50,48,48 = '0200'
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00A5                = 8707
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00A6                = 0
+TIFF.Ifd0.Exif.MakerNote.ShutterCount              = 8707
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00A8                = @7484:20        # UNDEFINED
+TIFF.Ifd0.Exif.MakerNote.ImageOptimization         = 'NORMAL         '
+TIFF.Ifd0.Exif.MakerNote.Saturation                = 'AUTO           '
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00B0                = @7536:16        # UNDEFINED
+TIFF.Ifd0.Exif.MakerNote.TAG_0X00B1                = 4
+TIFF.Ifd0.Gps.VersionID                   = 2,2,0,0
+TIFF.Ifd0.ImageData                   = @120100:57600    
+# Start of TIFF RGB uncompressed reduced-resolution image [160x120] length 57600 (IFD 0) at offset 0x1d524/120100
+#   End of TIFF reduced-resolution image data at offset 0x2b623/177699
+# Start of JPEG baseline DCT compressed reduced-resolution image [3872x2592] length 915256 (IFD 0 SubIFD 0) at offset 0x2bf40/180032
+#   End of JPEG reduced-resolution image data at offset 0x10b677/1095287
+# Start of TIFF CFA uncompressed primary image [3904x2616] length 15319296 (IFD 0 SubIFD 1) at offset 0x10b678/1095288
+#   End of TIFF primary image data at offset 0xfa7777/16414583
+# Start of JPEG baseline DCT compressed reduced-resolution image [570x375] length 112439 (IFD 0 MakerNote SubIFD) at offset 0x1dec/7660
+#   End of JPEG reduced-resolution image data at offset 0x1d522/120098
+NumberOfImages = 4
+FileFormat = TIFFEP/EXIF [NEF] # with MakerNote (Nikon Corporation [2]) and MakerNote-SubIFD
+
+

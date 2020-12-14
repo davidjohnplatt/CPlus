@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458084447 source:/home/david/cProg/Brolly/filerIO/MySqlStuff/main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<mysql.h>
+

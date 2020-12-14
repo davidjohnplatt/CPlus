@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456518097 source:/home/david/cProg/Brolly/Umbrella/add.cpp
+
+1456537021 source:/home/david/cProg/Brolly/Umbrella/main.cpp
+	<iostream>
+	"add.h"
+
+1456518338 /home/david/cProg/Brolly/Umbrella/add.h
+

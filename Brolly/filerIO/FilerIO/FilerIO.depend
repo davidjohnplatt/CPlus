@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458848657 source:/home/david/cProg/Brolly/filerIO/FilerIO/main.cpp
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<string>
+
